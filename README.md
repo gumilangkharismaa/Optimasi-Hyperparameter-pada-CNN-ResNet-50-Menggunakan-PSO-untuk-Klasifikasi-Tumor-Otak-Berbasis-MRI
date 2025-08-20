@@ -7,4 +7,5 @@ Selain itu, dilakukan optimasi hyperparameter menggunakan Particle Swarm Optimiz
 Dengan pendekatan ini, model mampu melakukan binary classification:
 
 0 → Normal Brain
+
 1 → Brain Tumor
