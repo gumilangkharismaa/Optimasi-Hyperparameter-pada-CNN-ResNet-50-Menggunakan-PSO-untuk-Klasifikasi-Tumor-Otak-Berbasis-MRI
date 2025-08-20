@@ -39,4 +39,4 @@ Model melakukan **binary classification**:
 ---
 
 ## ✅ Kesimpulan  
-Hasil eksperimen menunjukkan bahwa **optimasi hyperparameter menggunakan PSO** secara signifikan meningkatkan performa model **CNN ResNet-50** dalam klasifikasi citra MRI tumor otak.  
+Hasil eksperimen menunjukkan bahwa **optimasi hyperparameter menggunakan PSO** meningkatkan performa model **CNN ResNet-50** dalam klasifikasi citra MRI tumor otak.  
